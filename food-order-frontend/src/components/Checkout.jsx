@@ -20,7 +20,7 @@ export default function Checkout() {
     const cartCtx = useContext(CartContext);
     const userProgressCtx = useContext(UserProgressContext);
 
-    const { data, error, sendRequest, clearData } = useHttp('http://localhost:5000/orders', requestConfig);
+    const { data, error, sendRequest, clearData } = useHttp('https://food-app-backend-en94.onrender.com/orders', requestConfig);
 
     const cartTotal = cartCtx.items.reduce(
         (totalPrice, item) => totalPrice + item.quantity * item.price, 0
