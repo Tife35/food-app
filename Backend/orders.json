@@ -1,0 +1,525 @@
+[
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Ayo Adegoke",
+      "email": "ayomide@gmail.com",
+      "street": "Iyana School",
+      "postal-code": "12345",
+      "city": "Ojo"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Ayo Adegoke",
+      "email": "ayomide@gmail.com",
+      "street": "Iyana School",
+      "postal-code": "12345",
+      "city": "Ojo"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Ayo Adegoke",
+      "email": "ayomide@gmail.com",
+      "street": "Iyana School",
+      "postal-code": "12345",
+      "city": "Ojo"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Ayo Emmanuel",
+      "email": "emmanuel@gmail.com",
+      "street": "Iyana School",
+      "postal-code": "12345",
+      "city": "Ojo"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Bukola Dada",
+      "email": "bukola@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Magheritta Pizza",
+        "price": 12.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Bukola Dada",
+      "email": "bukola@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 8,
+        "name": "Sushi Roll Platter",
+        "price": 15.99,
+        "description": "An assortment of fresh sushi rolls including California Spicy Tuna, and Eel Avocado.",
+        "image": "sushi-roll-platter.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "price": 12.99,
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "margherita-pizza.jpg",
+        "quantity": 2
+      },
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with cripsy breadcrumbs. A classic comfort food.",
+        "image": "mac-and-cheese.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "description": "Romaine lettuce tossed in Caeser dressing, topped with croutons and parmesan shawlings.",
+        "image": "caesar-salad.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 1,
+        "name": "Mac & Cheese",
+        "price": 8.99,
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with cripsy breadcrumbs. A classic comfort food.",
+        "image": "mac-and-cheese.jpg",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "price": 12.99,
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "margherita-pizza.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  },
+  {
+    "items": [
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "price": 12.99,
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "margherita-pizza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "name": "Pancake Stack",
+        "price": 9.99,
+        "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+        "image": "pancake-stack.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Boluwatife Oresanya",
+      "email": "boluwatifeoresanya9@gmail.com",
+      "street": "Ipaja",
+      "postal-code": "1001",
+      "city": "Lagos"
+    }
+  }
+]

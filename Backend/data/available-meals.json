@@ -1,0 +1,86 @@
+[
+    {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with cripsy breadcrumbs. A classic comfort food.",
+        "image": "mac-and-cheese.jpg"
+    },
+    {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust. ",
+        "image": "margherita-pizza.jpg"
+    },
+    {
+        "id": "m3",
+        "name": "Caesar Salad",
+        "price": "7.99",
+        "description": "Romaine lettuce tossed in Caeser dressing, topped with croutons and parmesan shawlings.",
+        "image": "caesar-salad.jpg"
+    },
+    {
+        "id": "m4",
+        "name": "Spaghetti Carbonara",
+        "price": "10.99",
+        "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecerino cheese.",
+        "image": "spaghetti-carbonara.jpg"
+    },
+    {
+        "id": "m5",
+        "name": "Veggie Burger",
+        "price": "9.99",
+        "description": "A juicy veggie patty served on a whole grain bun with lettuce tomato, and a tangy.",
+        "image": "veggie-burger.jpg"
+    },
+    {
+        "id": "m6",
+        "name": "Grilled Chicken Sandwich",
+        "price": "10.99",
+        "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a.",
+        "image": "grilled-chicken-sandwich.jpg"
+    },
+    {
+        "id": "m7",
+        "name": "Steak Frites",
+        "price": "17.99",
+        "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+        "image": "steak-frites.jpg"
+    },
+    {
+        "id": "m8",
+        "name": "Sushi Roll Platter",
+        "price": "15.99",
+        "description": "An assortment of fresh sushi rolls including California Spicy Tuna, and Eel Avocado.",
+        "image": "sushi-roll-platter.jpg"
+    },
+    {
+        "id": "m9",
+        "name": "Chicken Curry",
+        "price": "13.99",
+        "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+        "image": "chicken-curry.jpg"
+    },
+    {
+        "id": "m10",
+        "name": "Vegan Buddha Bowl",
+        "price": "11.99",
+        "description": "A hearty bowl filled with quinea, roasted veggies, avocado, and a tahini dressing.",
+        "image": "vegan-buddha-bowl.jpg"
+    },
+    {
+        "id": "m11",
+        "name": "Seafood Paella",
+        "price": "19.99",
+        "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and cherizo.",
+        "image": "seafood-paella.jpg"
+    },
+    {
+        "id": "m12",
+        "name": "Pancake Stack",
+        "price": "9.99",
+        "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+        "image": "pancake-stack.jpg"
+    }
+]
