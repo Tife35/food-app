@@ -7,7 +7,7 @@ import Error from './Error.jsx';
 const requestConfig = {};
 
 export default function Meals() {
-    const {data: loadedMeals, isLoading, error } = useHttp('http://localhost:5000/meals', requestConfig, []);
+    const {data: loadedMeals, isLoading, error } = useHttp('https://food-app-backend-en94.onrender.com/meals', requestConfig, []);
 
 
     if (isLoading) {
